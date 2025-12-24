@@ -1,8 +1,9 @@
+![Arkanoid gameplay](arkanoid-demo.gif)
+
+
 # Arkanoid Game 🎮
 
 A Java implementation of the classic **Arkanoid / Breakout** game, developed as a personal project using object-oriented programming principles and a custom-built game engine.
-
-![Arkanoid gameplay](arkanoid-demo.gif)
 
 ## About the Project
 This project was built to strengthen my understanding of core software engineering concepts, including clean object-oriented design, event-driven programming, and real-time collision handling.
