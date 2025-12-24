@@ -1,0 +1,18 @@
+package graphics;
+import biuoop.DrawSurface;
+
+/**
+ * This interface used for objects that take part in animations and drawing .
+ */
+public interface Sprite {
+    /**
+     * Notify the object it needs to be drawn on the gui.
+     * @param d - surface to be used for drawing on.
+     */
+    void drawOn(DrawSurface d);
+
+    /**
+     * Notify the object that time has passed and updating info is needed.
+     */
+    void timePassed();
+}
